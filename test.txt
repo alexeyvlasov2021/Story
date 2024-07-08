@@ -1,0 +1,3 @@
+some test data is stored here
+
+copyright Alexey Vlasov inc
